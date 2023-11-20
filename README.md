@@ -32,11 +32,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 If the project results useful to you please give it a star! Thanks!
 
-## License
-Distributed under the [LICENSE](). See `LICENSE` for more information.
-
-## Contact
-Your Name - [Your Email](mailto:your-email@example.com)
 
 Project Link: [https://github.com/nachojeda/genAI](https://github.com/nachojeda/genAI)
 

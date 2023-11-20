@@ -1,7 +1,7 @@
 # Generative AI Use Cases
 
 ## Introduction
-Welcome to the "Generative AI Use Cases" repository! This space is dedicated to exploring various applications of Generative AI across multiple domains. Our goal is to provide a comprehensive introduction to the innovative and diverse ways in which AI is transforming industries and creative processes.
+Welcome to the "Generative AI Use Cases" repository! This space is dedicated to exploring various applications of Generative AI across multiple domains. The goal is to provide a comprehensive introduction to the innovative and diverse ways in which AI is transforming industries and creative processes.
 
 ## Table of Contents
 - [About the Project](#about-the-project)
@@ -13,17 +13,13 @@ Welcome to the "Generative AI Use Cases" repository! This space is dedicated to 
 - [Acknowledgements](#acknowledgements)
 
 ## About the Project
-This project aims to showcase a range of use cases where Generative AI is making a significant impact. From art and music creation to solving complex industry problems, Generative AI is a rapidly evolving field with immense potential.
+This project aims to showcase a range of use cases where Generative AI is making a significant impact. From exctracting information from personal databases to solving complex industry problems, Generative AI is a rapidly evolving field with immense potential.
 
 ## Use Cases
-Here, you'll find various examples and case studies that demonstrate the practical applications of Generative AI. Each use case is presented with detailed explanations and, where applicable, code samples and demonstrations.
+Here, you'll find various examples and case studies that demonstrate the practical applications of Generative AI. Each use case is presented with detailed explanations and code samples.
 
 ### List of Use Cases:
-- AI in Art and Design
-- AI in Music Composition
-- AI in Healthcare
-- AI in Finance
-- AI in Content Creation
+- PDF Info Exctraction
 - [More to be added]
 
 ## Getting Started
@@ -34,7 +30,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
-Don't forget to give the project a star! Thanks again!
+If the project results useful to you please give it a star! Thanks!
 
 ## License
 Distributed under the [LICENSE](). See `LICENSE` for more information.
@@ -42,9 +38,7 @@ Distributed under the [LICENSE](). See `LICENSE` for more information.
 ## Contact
 Your Name - [Your Email](mailto:your-email@example.com)
 
-Project Link: [https://github.com/your-github-username/generative-ai-use-cases](https://github.com/your-github-username/generative-ai-use-cases)
+Project Link: [https://github.com/nachojeda/genAI](https://github.com/nachojeda/genAI)
 
 ## Acknowledgements
-- [Resource 1]()
-- [Resource 2]()
-- [Resource 3]()
+- https://python.langchain.com/docs/get_started/introduction

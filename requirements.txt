@@ -1,0 +1,7 @@
+python-dotenv
+langchain
+pypdf
+tiktoken
+faiss-cpu
+chroma
+PyPDF2

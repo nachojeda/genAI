@@ -23,7 +23,7 @@ Here, you'll find various examples and case studies that demonstrate the practic
 - [More to be added] ➕
 
 ## Getting Started 🚶‍♂️
-To explore these use cases, simply navigate through the repository. Each folder is dedicated to a specific application of Generative AI and contains relevant materials such as code, datasets, and documentation.
+To explore these use cases, simply navigate through the repository. Each notebook is dedicated to a specific application of Generative AI and explained code step by step. To make use of all the functions and tools, install via **pip** the [requirements.txt](https://github.com/nachojeda/genAI/blob/main/requirements.txt) file to get all the needed packages. 
 
 ## Contributing 👐
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
